@@ -2,5 +2,5 @@
 
 
 - 🌱 Estudando JavaScript...
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronomes: Ele/Dele
 
